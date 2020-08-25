@@ -9,9 +9,8 @@
 🤝  I’m looking for help with [docker-dyndns](https://github.com/wernerfred/docker-dyndns)  
 👨‍💻  All of my projects are available at [https://github.com/wernerfred](https://github.com/wernerfred)  
 💬  Ask me about **Docker**  
-
-<p></p>
-<p align="center">
+ 
+<p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
