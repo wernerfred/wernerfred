@@ -8,7 +8,7 @@
 👯  I’m collaborating on [docker-mailserver](https://github.com/docker-mailserver/docker-mailserver)  
 🤝  I’m looking for help with [docker-dyndns](https://github.com/wernerfred/docker-dyndns)  
 👨‍💻  All of my projects are available at [https://github.com/wernerfred](https://github.com/wernerfred)  
-💬  Ask me about **Docker**, **Ansible** and **GitHub Actions**  
+💬  Ask me about **Docker**, **Ansible**, **Git** and **GitHub Actions**  
  
 <!--
 <p align="left">
